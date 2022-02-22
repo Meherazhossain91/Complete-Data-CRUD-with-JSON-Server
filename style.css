@@ -1,0 +1,20 @@
+
+
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+*::focus{
+    outline: none;
+}
+body{
+    background-color: antiquewhite;
+}
+
+.devs{
+    width: 1000px;
+    margin: 100px auto 0px;
+}
+a{
+    text-decoration: none;
+}
